@@ -1,0 +1,33 @@
+body {
+    background-size: cover;
+}
+.header {
+    width: 100%;
+    background-color: #cf7557;
+    padding: 8px;
+    margin: 0px;
+}
+.header h2 {
+    color: white;
+}
+.header b {
+    font-size: 15px;
+}
+#input {
+    width: 450px;
+    color: gray;
+    border-radius: 7px;
+    border: 1px solid lightgray;
+    font-size: 17px;
+    padding: 5px;
+    padding-left: 15px;
+}
+.start {
+    font-size: 17px;
+    width: 80px;
+}
+canvas {
+    border: 2px solid gray;
+    border-radius: 15px;
+    margin-top: 100px;
+}
